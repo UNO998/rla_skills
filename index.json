@@ -1,0 +1,140 @@
+{
+    "version": "1",
+    "skills": [
+      {
+        "name": "api-gateway",
+        "displayName": "API Gateway",
+        "description": "Unified API gateway connecting 100+ external services (Google Workspace, Slack, GitHub, etc.) with managed OAuth.",
+        "version": "1.0.68",
+        "repo": "https://github.com/UNO998/rla_skills.git",
+        "path": "api-gateway-1.0.68",
+        "branch": "main"
+      },
+      {
+        "name": "stock-analysis",
+        "displayName": "Stock Analysis",
+        "description": "Comprehensive stock market analysis tools for tracking prices, trends, and financial indicators.",
+        "version": "6.2.0",
+        "repo": "https://github.com/UNO998/rla_skills.git",
+        "path": "stock-analysis-6.2.0",
+        "branch": "main"
+      },
+      {
+        "name": "reddit-readonly",
+        "displayName": "Reddit Read-Only",
+        "description": "Read and browse Reddit posts, comments, and subreddits.",
+        "version": "1.0.0",
+        "repo": "https://github.com/UNO998/rla_skills.git",
+        "path": "reddit-readonly-1.0.0",
+        "branch": "main"
+      },
+      {
+        "name": "skill-builder",
+        "displayName": "Skill Builder",
+        "description": "Build and scaffold new Claude skills.",
+        "version": "1.0.5",
+        "repo": "https://github.com/UNO998/rla_skills.git",
+        "path": "skill-builder-1.0.5",
+        "branch": "main"
+      },
+      {
+        "name": "docx",
+        "displayName": "DOCX",
+        "description": "Read and manipulate Microsoft Word (.docx) files, extracting text and structure.",
+        "version": "1.0.0",
+        "repo": "https://github.com/anthropics/skills.git",
+        "path": "skills/docx",
+        "branch": "main"
+      },
+      {
+        "name": "pptx",
+        "displayName": "PPTX",
+        "description": "Create and edit PowerPoint presentations (.pptx) programmatically.",
+        "version": "1.0.0",
+        "repo": "https://github.com/anthropics/skills.git",
+        "path": "skills/pptx",
+        "branch": "main"
+      },
+      {
+        "name": "pdf",
+        "displayName": "PDF",
+        "description": "Professional PDF manipulation: merge, split, extract text, and convert documents.",
+        "version": "1.0.0",
+        "repo": "https://github.com/anthropics/skills.git",
+        "path": "skills/pdf",
+        "branch": "main"
+      },
+      {
+        "name": "xlsx",
+        "displayName": "XLSX",
+        "description": "Powerful Excel spreadsheet manipulation, supporting formulas, styles, and large datasets.",
+        "version": "1.0.0",
+        "repo": "https://github.com/anthropics/skills.git",
+        "path": "skills/xlsx",
+        "branch": "main"
+      },
+      {
+        "name": "markdown-to-epub",
+        "displayName": "Markdown to EPUB",
+        "description": "Convert Markdown files to EPUB ebooks with customizable metadata and styling.",
+        "version": "1.0.0",
+        "repo": "https://github.com/smerchek/claude-epub-skill.git",
+        "path": "markdown-to-epub",
+        "branch": "main"
+      },
+      {
+        "name": "youtube-transcript",
+        "displayName": "YouTube Transcript",
+        "description": "Fetch and process YouTube transcripts for summarization and analysis.",
+        "version": "1.0.0",
+        "repo": "https://github.com/michalparkola/tapestry-skills.git",
+        "path": "youtube-transcript",
+        "branch": "main"
+      },
+      {
+        "name": "competitive-ads-extractor",
+        "displayName": "Competitive Ads Extractor",
+        "description": "Extract and analyze competitive advertising data to gain market insights.",
+        "version": "1.0.0",
+        "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "competitive-ads-extractor",
+        "branch": "master"
+      },
+      {
+        "name": "lead-research-assistant",
+        "displayName": "Lead Research Assistant",
+        "description": "Automated lead research and enrichment to streamline sales and marketing outreach.",
+        "version": "1.0.0",
+        "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "lead-research-assistant",
+        "branch": "master"
+      },
+      {
+        "name": "twitter-algorithm-optimizer",
+        "displayName": "Twitter Algorithm Optimizer",
+        "description": "Optimize your Twitter content and engagement strategy based on the latest platform algorithm insights.",
+        "version": "1.0.0",
+        "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "twitter-algorithm-optimizer",
+        "branch": "master"
+      },
+      {
+        "name": "video-downloader",
+        "displayName": "Video Downloader",
+        "description": "Download videos from various online platforms with support for different formats and qualities.",
+        "version": "1.0.0",
+        "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "video-downloader",
+        "branch": "master"
+      },
+      {
+        "name": "tailored-resume-generator",
+        "displayName": "Tailored Resume Generator",
+        "description": "Generate customized resumes tailored to specific job descriptions and industry standards.",
+        "version": "1.0.0",
+        "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "tailored-resume-generator",
+        "branch": "master"
+      }
+    ]
+  }
