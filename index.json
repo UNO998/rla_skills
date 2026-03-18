@@ -130,7 +130,7 @@
       {
         "name": "tailored-resume-generator",
         "displayName": "Tailored Resume Generator",
-        "description": "Generate customized resumes tailored to specific job descriptions and industry standards.。。。。。。",
+        "description": "Generate customized resumes tailored to specific job descriptions and industry standards.",
         "version": "1.0.0",
         "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
         "path": "tailored-resume-generator",
