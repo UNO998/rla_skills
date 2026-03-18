@@ -137,10 +137,10 @@
         "branch": "main"
       },
       {
-        "name": "test4.0",
+        "name": "test",
         "displayName": "Test5.0",
-        "description": "Run diagnostic tests, validate skill setups, and verify environment configurations are working correctly. (5.0)",
-        "version": "1.0.4",
+        "description": "Run diagnostic tests, validate skill setups, and verify environment configurations are working correctly. (6.0)",
+        "version": "1.0.5",
         "repo": "https://github.com/UNO998/rla_skills.git",
         "path": "test",
         "branch": "main"
