@@ -42,8 +42,8 @@
         "displayName": "DOCX",
         "description": "Read and manipulate Microsoft Word (.docx) files, extracting text and structure.",
         "version": "1.0.0",
-        "repo": "https://github.com/anthropics/skills.git",
-        "path": "skills/docx",
+        "repo": "https://github.com/UNO998/rla_skills.git",
+        "path": "docx",
         "branch": "main"
       },
       {
@@ -51,8 +51,8 @@
         "displayName": "PPTX",
         "description": "Create and edit PowerPoint presentations (.pptx) programmatically.",
         "version": "1.0.0",
-        "repo": "https://github.com/anthropics/skills.git",
-        "path": "skills/pptx",
+        "repo": "https://github.com/UNO998/rla_skills.git",
+        "path": "pptx",
         "branch": "main"
       },
       {
@@ -60,8 +60,8 @@
         "displayName": "PDF",
         "description": "Professional PDF manipulation: merge, split, extract text, and convert documents.",
         "version": "1.0.0",
-        "repo": "https://github.com/anthropics/skills.git",
-        "path": "skills/pdf",
+        "repo": "https://github.com/UNO998/rla_skills.git",
+        "path": "pdf",
         "branch": "main"
       },
       {
@@ -69,8 +69,8 @@
         "displayName": "XLSX",
         "description": "Powerful Excel spreadsheet manipulation, supporting formulas, styles, and large datasets.",
         "version": "1.0.0",
-        "repo": "https://github.com/anthropics/skills.git",
-        "path": "skills/xlsx",
+        "repo": "https://github.com/UNO998/rla_skills.git",
+        "path": "xlsx",
         "branch": "main"
       },
       {
@@ -78,7 +78,7 @@
         "displayName": "Markdown to EPUB",
         "description": "Convert Markdown files to EPUB ebooks with customizable metadata and styling.",
         "version": "1.0.0",
-        "repo": "https://github.com/smerchek/claude-epub-skill.git",
+        "repo": "https://github.com/UNO998/rla_skills.git",
         "path": "markdown-to-epub",
         "branch": "main"
       },
@@ -87,7 +87,7 @@
         "displayName": "YouTube Transcript",
         "description": "Fetch and process YouTube transcripts for summarization and analysis.",
         "version": "1.0.0",
-        "repo": "https://github.com/michalparkola/tapestry-skills.git",
+        "repo": "https://github.com/UNO998/rla_skills.git",
         "path": "youtube-transcript",
         "branch": "main"
       },
@@ -96,45 +96,45 @@
         "displayName": "Competitive Ads Extractor",
         "description": "Extract and analyze competitive advertising data to gain market insights.",
         "version": "1.0.0",
-        "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "repo": "https://github.com/UNO998/rla_skills.git",
         "path": "competitive-ads-extractor",
-        "branch": "master"
+        "branch": "main"
       },
       {
         "name": "lead-research-assistant",
         "displayName": "Lead Research Assistant",
         "description": "Automated lead research and enrichment to streamline sales and marketing outreach.",
         "version": "1.0.0",
-        "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "repo": "https://github.com/UNO998/rla_skills.git",
         "path": "lead-research-assistant",
-        "branch": "master"
+        "branch": "main"
       },
       {
         "name": "twitter-algorithm-optimizer",
         "displayName": "Twitter Algorithm Optimizer",
         "description": "Optimize your Twitter content and engagement strategy based on the latest platform algorithm insights.",
         "version": "1.0.0",
-        "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "repo": "https://github.com/UNO998/rla_skills.git",
         "path": "twitter-algorithm-optimizer",
-        "branch": "master"
+        "branch": "main"
       },
       {
         "name": "video-downloader",
         "displayName": "Video Downloader",
         "description": "Download videos from various online platforms with support for different formats and qualities.",
         "version": "1.0.0",
-        "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "repo": "https://github.com/UNO998/rla_skills.git",
         "path": "video-downloader",
-        "branch": "master"
+        "branch": "main"
       },
       {
         "name": "tailored-resume-generator",
         "displayName": "Tailored Resume Generator",
         "description": "Generate customized resumes tailored to specific job descriptions and industry standards.",
         "version": "1.0.0",
-        "repo": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "repo": "https://github.com/UNO998/rla_skills.git",
         "path": "tailored-resume-generator",
-        "branch": "master"
+        "branch": "main"
       }
     ]
   }
